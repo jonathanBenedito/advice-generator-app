@@ -5,7 +5,7 @@
   Gerador de Conselhos
 </h1>
 <p align="center">
-    <a href="https://jonathanbenedito.github.io/advice-generator-app/" target="_blank">Gerador de Conselhos</a> é um web app que gera um conselho aleatório após clicar no botão. Desenvolvido para um desafio do <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db">Frontend Mentor</a> e como um exercício no curso <a href="https://www.linkedin.com/school/devquest-dev-em-dobro/">DevQuest - Dev em Dobro</a>.
+    <a href="https://jonathanbenedito.github.io/advice-generator-app/" target="_blank">Gerador de Conselhos</a> é um web app que gera conselhos aleatórios após clicar no botão de dado. Desenvolvido para um desafio do <a href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db">Frontend Mentor</a> e como um exercício no curso <a href="https://www.linkedin.com/school/devquest-dev-em-dobro/">DevQuest - Dev em Dobro</a>.
 </p>
 
 ![demo](design/desktop-layout.png)
